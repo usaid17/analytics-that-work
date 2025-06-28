@@ -42,7 +42,7 @@ As a beginner in data science, I'm focused on learning by building. This project
 1. **Clone the repo** or download the notebook  
 2. Install dependencies:
 
-   ```bash
+```bash
    pip install tweepy textblob pandas
 ```
 
