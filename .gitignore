@@ -1,0 +1,5 @@
+# Ignore Obsidian and personal folders
+.makemd/
+.obsidian/
+.space/
+.trash/
