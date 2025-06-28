@@ -1,56 +1,59 @@
-# 🧠 Gender Classifier
+# 🧠 Gender Classifier (Using Decision Tree)
 
-> A beginner-level NLP project that predicts gender from names using simple text classification.
+> A simple beginner machine learning model that predicts gender based on height, weight, and shoe size.
 
 ---
 
 ## 📌 Project Overview
 
-This project uses a labeled dataset of names to build a basic gender classifier.  
-The goal is to explore how machine learning and natural language processing (NLP) can be applied to real-world business tasks — like **targeted marketing** or **personalized customer experiences**.
+This is my first machine learning project. It uses a small dataset and a **Decision Tree Classifier** to predict whether a person is male or female based on 3 physical features:
+
+- Height (in cm)
+- Weight (in kg)
+- Shoe size
 
 ---
 
-## 🎯 Objectives
+## 🗂️ Dataset
 
-- Learn the basics of **text preprocessing**
-- Apply a **classification algorithm** (e.g., Naive Bayes or Logistic Regression)
-- Evaluate model performance with simple metrics
-- Reflect on practical use cases and limitations
+- File: `hight.csv`
+- Format: CSV
+- Features:
+  - `Height`, `Weight`, `ShoeSize`, `Gender`
+- Labels: `M` for Male, `F` for Female
 
----
-
-## 🧰 Tools & Libraries
-
-- Python 🐍  
-- Pandas  
-- Scikit-learn  
-- NLTK (for basic text cleaning)
+🧪 The data is loaded directly from `hight.csv` using Python’s `csv` module.
 
 ---
 
-## 📊 What’s Inside
+## ⚙️ How It Works
 
-| File | Description |
-|------|-------------|
-| `notebook.ipynb` | Full code with explanations, model training, and evaluation |
-| `sample-output.png` *(optional)* | Shows the output of predictions or metrics |
-| `names_dataset.csv` *(if included)* | Sample dataset (male/female labeled names) |
-
----
-
-## 💡 Business Context
-
-Gender prediction is used in:
-- Personalized **product recommendations**
-- **Name disambiguation** in messy datasets
-- **Customer segmentation** for marketing or surveys
-
-⚠️ **Disclaimer:** Gender classification from names can be inaccurate and biased. It's important to consider ethical implications, especially in sensitive or identity-driven contexts.
+1. Load and parse the dataset
+2. Train a **Decision Tree model** using `scikit-learn`
+3. Make predictions using new input values
+4. Print out the predicted gender
 
 ---
 
-## 📈 Sample Output
+## 🧪 Example Prediction
 
-*(Add a confusion matrix or accuracy result here if you have it.)*
+```python
+prediction = clf.predict([[180, 90, 57]])
+Output:
+Male
 
+📚 What I Learned
+How to load data from a CSV file
+
+Basics of feature and label separation
+
+Training a Decision Tree using scikit-learn
+
+Making predictions with a trained model
+
+🛠️ Tools Used
+Python
+
+scikit-learn
+
+csv (standard library)
