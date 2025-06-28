@@ -60,8 +60,6 @@ The script will fetch tweets, analyze them, and show + save the results.
 
 ```bash
 
-CopyEdit
-
 `📦 twitter_sentiment_analysis/  
 ┣ 📄 twitter_sentiment_analysis.ipynb  
 ┣ 📄 tweet_sentiments.csv  
