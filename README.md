@@ -13,8 +13,8 @@ This repo is my living portfolio of practical, end-to-end analytics projects. Ev
 
 | Project | Focus | Business Value |
 |--------|--------|----------------|
-| [🧠 Gender Classifier](./gender-classifier) | NLP & Classification | Predict gender from names for better targeting & personalization |
-| [💬 Twitter Sentiment](./twitter-sentiment) | NLP & Sentiment | Analyze brand perception, monitor customer feedback in real-time |
+| 🧠 Gender Classifier | NLP & Classification | Predict gender from names for better targeting & personalization |
+| 💬 Twitter Sentiment | NLP & Sentiment | Analyze brand perception, monitor customer feedback in real-time |
 | 🛠️ Coming Soon: Customer Feedback Analysis | Text Analytics | Uncover themes in customer reviews to guide product and service decisions |
 ---
 
