@@ -42,6 +42,7 @@ It’s **analytics that work.**
 
 ## 🔭 Next Projects
 
+- 🗣️ Customer Feedback Analysis (reviews, support logs, survey comments)  
 - 📈 Churn Prediction from customer logs  
 - 🎯 A/B Test Analyzer for conversion rate uplift  
 - 📊 Sales Forecasting with Prophet  
