@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gender Classifier/Gender Classifier.md",
+                "file": "Gender Classifier/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gender Classifier"
+              "title": "README"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "c4fa98e6cc8ae908",
+            "id": "9cec1d9086bda6e5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -179,15 +179,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4fa98e6cc8ae908",
+  "active": "14598de0968d4560",
   "lastOpenFiles": [
+    "Gender Classifier/README.md",
+    "Gender Classifier/Gender Classifier.md",
     "New Text Document.txt",
     "New folder",
     "Untitled 1",
     "Untitled",
-    "Gender Classifier/Gender Classifier.md",
     "Gender Classifier/gender_classifier.ipynb",
-    "Gender Classifier/Untitled.md",
     "Gender Classifier",
     "README.md",
     "Tags"

@@ -38,7 +38,8 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Gender Classifier"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
