@@ -62,6 +62,22 @@ But most feel like academic assignments — disconnected from purpose.
 
 ---
 
+## 🧭 How to Explore This Repo
+
+Each project is in its own folder and includes everything you need:
+
+📂 **Folder Structure Example**:
+
+
+### ✅ To run or review a project:
+
+1. **Click the project folder** (e.g., `Gender Classifier`)
+2. **Open `notebook.ipynb`** to see the full code and outputs
+3. **Check `data`** to see the dataset used (if available)
+4. **Read `README.md`** inside the folder for quick context
+
+---
+
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/usaid7)  
