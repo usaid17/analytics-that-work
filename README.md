@@ -48,7 +48,7 @@ But most feel like academic assignments — disconnected from purpose.
 ## 🧰 Tools & Skills
 
 - Python (Pandas, Scikit-learn, NLTK)
-- Jupyter, Matplotlib, Seaborn
+- Colab, Jupyter, Matplotlib, Seaborn
 - Mindset: Learn fast → Solve problems → Add value
 
 ---
