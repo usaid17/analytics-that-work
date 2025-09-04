@@ -1,48 +1,42 @@
-# 📉 Market Trends Analyzer - Tesla & GameStop  
+# 📈 Historical Stock Price Analysis  
 
-This project analyzes the **historical stock performance** of Tesla and GameStop, combining financial data from APIs and web scraping to uncover insights into their trends and revenue patterns.  
-
-The goal is to demonstrate how **data analysts can work with multiple data sources** (APIs + web scraping) and build **visualizations that support business and investment decisions**.  
-
----
-
-## 🔍 Project Overview  
-
-- **Data Extraction**  
-  - Stock price data pulled using the `yfinance` API  
-  - Revenue data scraped from financial websites using `BeautifulSoup`  
-
-- **Data Processing**  
-  - Cleaned and structured data with `pandas`  
-  - Combined stock price and revenue datasets  
-
-- **Visualization**  
-  - Interactive time series graphs created with `plotly`  
-  - Side-by-side views of **stock trends vs. revenue performance**  
+This project explores the historical stock performance of **Tesla (TSLA)** and **GameStop (GME)**.  
+It was completed as part of the **IBM Course – Python Project for Data Science**.  
 
 ---
 
-## 📊 Business Context  
-
-| Focus | Business Context |
-|-------|------------------|
-| 📈 Tesla Stock Analysis | Understanding stock performance in relation to company revenue to evaluate growth potential |
-| 🎮 GameStop Stock Analysis | Analyzing volatility and revenue shifts to assess long-term sustainability |
-
-These insights are valuable for:  
-- 📊 **Investors** → evaluating stock performance in context of revenue  
-- 💼 **Business Analysts** → studying how external events affect financials  
-- 📈 **Learners** → practicing API usage, web scraping, and time series visualization  
+## 🔍 Overview  
+- Collected stock price data and revenue data for Tesla & GameStop  
+- Cleaned and processed datasets for analysis  
+- Visualized trends using time-series plots  
+- Compared stock prices with company revenues to find insights  
 
 ---
 
 ## 🛠️ Tools & Libraries  
-
-- **Python** → Data handling & analysis  
-- **yfinance** → Fetching historical stock data  
-- **BeautifulSoup (bs4)** → Web scraping revenue data  
-- **pandas** → Data cleaning & manipulation  
-- **plotly** → Interactive visualizations  
+- **Python** → Pandas, NumPy, Matplotlib  
+- **yfinance API** → Stock data extraction  
+- **BeautifulSoup** → Revenue data scraping  
+- **Jupyter Notebook** → Analysis & visualization  
 
 ---
 
+## 📊 Business Context  
+Analyzing stock data helps in:  
+- 📉 **Investment decisions** → spotting growth & volatility  
+- 💼 **Business insights** → linking company revenue with stock performance  
+- 📊 **Analyst learning** → understanding real-world financial data handling  
+
+---
+
+## 🚀 How to Explore  
+1. Open the notebook:  
+   👉 `Final Assignment - IBM Python Project Data Science.ipynb`  
+2. Run cells step by step to:  
+   - Fetch stock & revenue data  
+   - Clean and organize it  
+   - Generate visualizations  
+
+⚡ No external CSVs required — data is pulled live from APIs & web scraping.  
+
+---
