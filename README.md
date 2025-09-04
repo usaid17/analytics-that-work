@@ -28,7 +28,7 @@ This repo is my sandbox — and my launchpad.
 | 💬 Twitter Sentiment | Sentiment Analysis | Monitors public opinion & brand perception |
 | 🗣️ Coming Soon: Customer Feedback Analysis | Text Mining | Understands themes from customer reviews & complaints |
 
-> ⚠️ These are beginner-level projects — but each one is designed to build real-world thinking and momentum.
+>⚠️ These are beginner-level projects — but each one is designed to build real-world thinking and momentum.
 
 ---
 
