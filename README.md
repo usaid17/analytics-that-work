@@ -1,64 +1,65 @@
 # 🚀 analytics-that-work
 
-> **A beginner's journey in data science — focused, business-aware, and built for real-world impact.**
+A collection of **data analytics projects** built with a business-first mindset.  
+Each project is designed not just to apply technical skills, but to **deliver insights and solve real problems**.  
 
-Hi, I'm Usaid — a data science enthusiast who's not just learning to code, but learning to solve problems.  
-This repo is where I share my projects as I grow — from small models to business-minded solutions.
-
-> 🧭 **Learning with purpose. Practicing with intent. Growing with clarity.**
+I believe in data that works — analytics that drive decisions, uncover opportunities, and create value.  
 
 ---
 
-## 🌱 Where I'm At
+## 🌱 My Focus  
 
-- 🧠 Beginner in Data Science & Python
-- 📚 Learning through real projects — not tutorials alone
-- 💼 Focused on analytics that solve *actual business problems*
-- 🚀 Progressing fast by building, reflecting, and iterating
-
-This repo is my sandbox — and my launchpad.
+- 📊 Turning raw data into **clear, actionable insights**  
+- 💡 Applying analytics with **business context in mind**  
+- 🛠️ Building strong foundations in **Python, SQL, and visualization**  
+- 🚀 Growing steadily through hands-on projects and real-world problems  
 
 ---
 
-## 📊 Projects
+## 📊 Projects  
 
 | Project | Focus | Business Context |
-|--------|--------|------------------|
-| 🧠 Gender Classifier | NLP, Classification | Predicts gender from names for personalization & targeting |
-| 💬 Twitter Sentiment | Sentiment Analysis | Monitors public opinion & brand perception |
-| 🗣️ Coming Soon: Customer Feedback Analysis | Text Mining | Understands themes from customer reviews & complaints |
+|---------|-------|------------------|
+| 📉 Market Trends Analyzer (Tesla & GameStop) | Time Series Analysis | Analyzes historical stock performance to uncover trends and volatility |
+| 👥 Customer Churn Analysis | Classification & EDA | Identifies drivers of churn to support retention strategies |
+| 🧠 Gender Classifier | Classification | Predicts gender from names for personalization & targeting |
+| 💬 Twitter Sentiment Analysis | Sentiment Analysis | Monitors public opinion & brand perception |
 
-> ⚠️ These are beginner-level projects — but each one is designed to build real-world thinking and momentum.
-
----
-
-## 🎯 Why This Repo?
-
-There are a lot of "data science" portfolios out there.  
-But most feel like academic assignments — disconnected from purpose.
-
-**This is different.**
-
-- ✅ Built around **business goals**, not just accuracy
-- ✅ Designed to **learn fast** by doing
-- ✅ Grows with me — from beginner to practitioner
+>⚠️ Some projects are foundational, while others dive deeper into business-driven analytics — together they reflect both **growth and practical application**.  
 
 ---
 
-## 🧰 Tools & Skills
+## 🎯 Why This Repo?  
 
-- Python (Pandas, Scikit-learn, NLTK)
-- Colab, Jupyter, Matplotlib, Seaborn
-- Mindset: Learn fast → Solve problems → Add value
+There are plenty of portfolios out there.  
+This one is different:  
+
+✅ Focused on **business impact**, not just models or code  
+✅ Structured to be **practical and professional**  
+✅ Continuously improving with new projects and skills  
 
 ---
 
-## 🔭 Next Steps
+## 🧰 Tools & Skills  
 
-- 🗣️ Customer Feedback Analysis (text mining product reviews)
-- 🎯 A/B Test Analyzer for conversion strategy
-- 📊 Sales Forecasting with time series models
-- 📱 Streamlit dashboards for better stakeholder communication
+- **Python** (Pandas, Numpy, Scikit-learn, Web Scraping, TextBlob)
+- **Data Visualization** (Matplotlib, Seaborn)
+- **Spreadsheet Tools** (Microsoft Excel)
+- **Dashboards & BI** (IBM Cognos Analytics)
+- **APIs & Data Handling** (REST APIs, CSV/Excel file handling)
+- **Analytical Approach**: Explore → Analyze → Interpret → Apply  
+
+*(Expanding into SQL, Tableau/Power BI, and dashboarding for stronger analyst skills.)*  
+
+---
+
+## 🔭 Next Steps  
+
+- 📈 Sales Insights Dashboard (SQL + visualization)  
+- 🗣️ Customer Feedback Analysis (text mining reviews)  
+- 🎯 A/B Test Analyzer (conversion optimization)  
+- 📊 Time Series Forecasting (business KPIs)  
+- 📱 Streamlit dashboards for stakeholder-friendly reporting  
 
 ---
 
