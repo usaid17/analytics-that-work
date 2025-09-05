@@ -31,7 +31,7 @@ Analyzing stock data helps in:
 
 ## 🚀 How to Explore  
 1. Open the notebook:  
-   👉 `Final Assignment - IBM Python Project Data Science.ipynb`  
+   👉 `Final Assignment.ipynb`  
 2. Run cells step by step to:  
    - Fetch stock & revenue data  
    - Clean and organize it  
