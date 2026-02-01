@@ -21,7 +21,6 @@ I believe in data that works — analytics that drive decisions, uncover opportu
 | Project | Focus | Business Context |
 |---------|-------|------------------|
 | 📉 Market Trends Analyzer (Tesla & GameStop) | Time Series Analysis | Analyzes historical stock performance to uncover trends and volatility |
-| 👥 Customer Churn Analysis | Classification & EDA | Identifies drivers of churn to support retention strategies |
 | 🧠 Gender Classifier | Classification | Predicts gender from names for personalization & targeting |
 | 💬 Twitter Sentiment Analysis | Sentiment Analysis | Monitors public opinion & brand perception |
 
