@@ -69,5 +69,6 @@ By comparing "Current Usage" vs. "Desired Usage," I identified technologies with
 ## 📝 Author
 **Usaid Khan**
 *Data Analyst | Open to Opportunities*
-[(https://www.linkedin.com/in/usaid7/)]
+[LinkedIn](https://www.linkedin.com/in/usaid7/)
+
 
