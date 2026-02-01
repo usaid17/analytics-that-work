@@ -9,7 +9,7 @@ Welcome to my data portfolio! I focus on solving real-world problems through dat
 ### [Global Developer Ecosystem Trends (IBM Capstone)](./04-IBM-Capstone-Dev-Trends)
 *A comprehensive analysis of the global engineering workforce, identifying market standards and emerging technology trends.*
 
-**The Challenge:** Synthesize complex survey data from Stack Overflow to predict future hiring needs and developer skill gaps for 2026.
+**The Challenge:** Synthesize complex survey data from Stack Overflow to predict future hiring needs and developer skill gaps.
 
 **Key Accomplishments:**
 * **Data Cleaning:** Engineered a custom Python pipeline to handle semi-structured data and remove 154 hidden duplicates using `ResponseId` logic.
