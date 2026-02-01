@@ -45,7 +45,7 @@ This one is different:
 - **Python** (Pandas, Numpy, Scikit-learn, Web Scraping, TextBlob)
 - **Data Visualization** (Matplotlib, Seaborn)
 - **Spreadsheet Tools** (Microsoft Excel)
-- **Dashboards & BI** (IBM Cognos Analytics)
+- **Dashboards & BI** (Tableau, IBM Cognos Analytics)
 - **APIs & Data Handling** (REST APIs, CSV/Excel file handling)
 - **Analytical Approach**: Explore → Analyze → Interpret → Apply  
 
