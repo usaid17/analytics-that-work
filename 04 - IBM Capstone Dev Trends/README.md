@@ -67,8 +67,9 @@ By comparing "Current Usage" vs. "Desired Usage," I identified technologies with
 * **BI Tool:** IBM Cognos Analytics
 
 ## 📝 Author
-**Usaid Khan**
+**Usaid Khan**\
 *Data Analyst | Open to Opportunities*
 [LinkedIn](https://www.linkedin.com/in/usaid7/)
+
 
 
