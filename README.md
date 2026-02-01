@@ -1,7 +1,6 @@
-# Hi there! I'm [Your Name] 👋
-### Aspiring Data Analyst | Python & SQL Enthusiast
+# Hi there! I'm Usaid 👋
 
-Welcome to my data analytics portfolio! Here, I document my journey from learning foundational concepts to executing full-scale data analysis projects. I am passionate about uncovering insights that drive business decisions and am currently open to opportunities in data analytics.
+Welcome to my data portfolio! I focus on solving real-world problems through data cleaning, advanced visualization, and statistical modeling. I am currently expanding my skillset into advanced machine learning and predictive analytics.
 
 ---
 
@@ -24,6 +23,15 @@ Welcome to my data analytics portfolio! Here, I document my journey from learnin
 
 ---
 
+## 🏆 Certifications & Education
+
+* **Google Advanced Data Analytics Professional Certificate** (In Progress)
+    * *Focus:* Advanced regression, machine learning models, and Python automation.
+* **IBM Data Analyst Professional Certificate**
+    * *Focus:* Data analysis, visualization, and SQL databases.
+
+---
+
 ## 📂 Project Archive
 
 ### Financial Analytics
@@ -38,7 +46,7 @@ Welcome to my data analytics portfolio! Here, I document my journey from learnin
     * *Tools:* Python, NLTK/TextBlob.
     * *Summary:* Processed social media data to classify public sentiment (Positive/Negative/Neutral) regarding trending topics.
 
-### Machine Learning (Introductory)
+### Machine Learning (Foundations)
 * **[Gender Classifier](./01%20-%20Gender%20Classifier)**
     * *Focus:* Classification algorithms.
     * *Tools:* Python, Scikit-learn (Decision Trees).
@@ -51,7 +59,7 @@ Welcome to my data analytics portfolio! Here, I document my journey from learnin
 | **Category** | **Tools & Technologies** |
 | :--- | :--- |
 | **Languages** | Python, SQL, HTML/CSS |
-| **Data Manipulation** | Pandas, NumPy |
+| **Data Manipulation** | Pandas, NumPy, Statistics |
 | **Visualization** | Matplotlib, Seaborn, IBM Cognos, Tableau |
 | **Machine Learning** | Scikit-learn (Regression, KNN, Decision Trees) |
 | **Tools** | Jupyter Notebooks, Git/GitHub, Excel |
@@ -60,7 +68,7 @@ Welcome to my data analytics portfolio! Here, I document my journey from learnin
 
 ## 📫 Let's Connect
 
-I am constantly learning and building new things. If you have any questions about my projects or would like to discuss data analytics, feel free to reach out!
+I am constantly building new things and refining my models. If you have any questions about my projects or would like to discuss data analytics, feel free to reach out!
 
-* [LinkedIn](https://www.linkedin.com/in/your-profile)
-* [Email](mailto:your-email@example.com)
+* [LinkedIn](https://www.linkedin.com/in/usaid7/)
+* [Email](mailto:hiusaidk@gmail.com)
