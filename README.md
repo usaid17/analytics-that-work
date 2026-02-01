@@ -23,7 +23,7 @@ Welcome to my data portfolio! I focus on solving real-world problems through dat
 
 ---
 
-## 🏆 Certifications & Education
+## 🏆 Certifications
 
 * **Google Advanced Data Analytics Professional Certificate** (In Progress)
     * *Focus:* Advanced regression, machine learning models, and Python automation.
