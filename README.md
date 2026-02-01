@@ -12,7 +12,7 @@ Welcome to my data portfolio! I focus on solving real-world problems through dat
 **The Challenge:** Synthesize complex survey data from Stack Overflow to predict future hiring needs and developer skill gaps.
 
 **Key Accomplishments:**
-* **Data Cleaning:** Engineered a custom Python pipeline to handle semi-structured data and remove 154 hidden duplicates using `ResponseId` logic.
+* **Data Cleaning:** Engineered a custom Python pipeline to handle semi-structured data and remove 20 hidden duplicates using `ResponseId` logic.
 * **Advanced Analysis:** Utilized **K-Nearest Neighbors (KNN)** to impute missing AI adoption data and **IQR** methods to filter salary outliers.
 * **Visualization:** Created an interactive dashboard in **IBM Cognos** to map global developer density and technology adoption rates.
 * **Insight:** Identified a "Golden Triangle" of essential skills (JS, Python, SQL) and predicted the rise of TypeScript and Go as high-value future skills.
