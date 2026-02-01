@@ -1,10 +1,10 @@
-# Global Developer Ecosystem Trends 2026 🌍
+# Global Developer Ecosystem Trends 🌍
 ### IBM Data Analyst Capstone Project
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange) ![Cognos](https://img.shields.io/badge/IBM-Cognos%20Analytics-blueviolet) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📖 Executive Summary
-This project analyzes the current state of the global engineering workforce using data from the **Stack Overflow Developer Survey**. The goal was to identify market standards, predict future technology trends, and determine the "optimal profile" for a high-value developer in 2026.
+This project analyzes the current state of the global engineering workforce using data from the **Stack Overflow Developer Survey**. The goal was to identify market standards, predict future technology trends, and determine the "optimal profile" for a high-value developer.
 
 Using a cleaned dataset of professional developers, I utilized **Python** for data processing and **IBM Cognos Analytics** for dashboarding. The analysis synthesizes demographic shifts, technology adoption rates, and salary trajectories to provide actionable career insights.
 
@@ -56,7 +56,7 @@ By comparing "Current Usage" vs. "Desired Usage," I identified technologies with
 | **`01-Notebooks`** | Jupyter notebooks containing the Python code for cleaning, imputation (KNN), and visualization. |
 | **`02-Reports`** | The final **Executive Presentation** and the consolidated **Technical Analysis Report** (PDFs). |
 | **`03-Dashboard`** | Static exports of the **IBM Cognos** visualizations. |
-| **`data`** | *(Contains raw data source link or sample subset)* |
+| **`04-data`** | *(Contains raw data source link)* |
 
 ---
 
@@ -67,6 +67,7 @@ By comparing "Current Usage" vs. "Desired Usage," I identified technologies with
 * **BI Tool:** IBM Cognos Analytics
 
 ## 📝 Author
-**[Your Name]**
+**Usaid Khan**
 *Data Analyst | Open to Opportunities*
-[LinkedIn Profile Link]
+[(https://www.linkedin.com/in/usaid7/)]
+
