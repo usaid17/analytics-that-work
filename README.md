@@ -6,7 +6,7 @@ Welcome to my data portfolio! I focus on solving real-world problems through dat
 
 ## 🚀 Featured Project
 
-### [Global Developer Ecosystem Trends (IBM Capstone)](./04 - IBM Capstone Dev Trends)
+### [Global Developer Ecosystem Trends (IBM Capstone)](./04%20-%20IBM%20Capstone%20Dev%20Trends)
 *A comprehensive analysis of the global engineering workforce, identifying market standards and emerging technology trends.*
 
 **The Challenge:** Synthesize complex survey data from Stack Overflow to predict future hiring needs and developer skill gaps.
@@ -19,7 +19,7 @@ Welcome to my data portfolio! I focus on solving real-world problems through dat
 
 **Tech Stack:** Python (Pandas, NumPy, Scikit-learn), IBM Cognos Analytics.
 
-[📂 View Full Project & Report](./04 - IBM Capstone Dev Trends)
+[📂 View Full Project & Report](./04%20-%20IBM%20Capstone%20Dev%20Trends)
 
 ---
 
