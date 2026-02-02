@@ -70,5 +70,5 @@ Welcome to my data portfolio! I focus on solving real-world problems through dat
 
 I am constantly building new things and refining my models. If you have any questions about my projects or would like to discuss data analytics, feel free to reach out!
 
-* [LinkedIn](https://www.linkedin.com/in/usaid7/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/usaid7/)
 * 📧 Email: [hiusaidk@gmail.com](mailto:hiusaidk@gmail.com)
